@@ -4,4 +4,8 @@
 
 # on my portofolio(1,2,3,4) there are hypothetical examples of my work, just to understand the structure I desire
 
+# Please feel free to contact me with your ideas, comments or corrections. Any help is appreciated.
+
+stelioskaragiannidis@gmail.com
+
 
